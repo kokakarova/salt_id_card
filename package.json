@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kokakarova.github.io/salt_id_card/card/course",
+  "homepage": "https://kokakarova.github.io/salt_id_card/#",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
